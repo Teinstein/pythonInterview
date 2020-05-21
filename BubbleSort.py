@@ -21,6 +21,6 @@ arra = [68, 35, 27, 16, 23, 13, 89]
 
 bubble_sort(arra)
 
-print("Array in a sorted manner:")
+print("Array in a sorted manner : ")
 for i in range(len(arra)):
     print("%d" % arra[i])
